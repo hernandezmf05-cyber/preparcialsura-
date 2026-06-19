@@ -13,5 +13,3 @@ if(correo_usuario==CORREO_BD and contraseña_usuario==CONTRASEÑA_BD):
     print("bienvenido al sistema 🆗")
 else:
     print("fallamos en tu autenticacion ✖️")
-
-
